@@ -1,2 +1,2 @@
 # demo-delta-
-demo for learning 
+demo for learning .
